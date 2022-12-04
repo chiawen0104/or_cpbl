@@ -1,2 +1,3 @@
-# or_cpbl
-CPBL Starting Lineup Selection
+## Latex link
+
+https://www.overleaf.com/1249432627gtwdjcnbcwyt
