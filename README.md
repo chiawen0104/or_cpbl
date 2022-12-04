@@ -15,5 +15,5 @@ We get the following data from [CPBL website](https://www.cpbl.com.tw):
 2. CPBL Game Schedule of 2022 season (Apr - May)
 3. CPBL Roster Swap of 2022 season (Apr - May)
 
-## Other Info
-You can check our mathematical representation, performance analysis and detailed model introduction in `./doc/final_slides` and `./doc/final_report`.
+## More Info
+You can check our mathematical representation, model introduction and performance analysis in `./doc/final_slides` and `./doc/final_report`.
