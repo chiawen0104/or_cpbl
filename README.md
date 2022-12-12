@@ -1,5 +1,4 @@
-# or_cpbl
-- Topic: CPBL Starting Lineup Selection
+# CPBL Starting Lineup Selection
 - Course: Operations Research, NTUIM, 2021 spring
 - Author: (as shown below)
 ![image](https://github.com/chiawen0104/or_cpbl/blob/main/doc/title.png)
